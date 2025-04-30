@@ -13,4 +13,4 @@
 
 # 🔄 Redirect to Main Repository
 
-If you want to access the resources of NIET, [click here to visit the repository](https://github.com/DevGoyalG/NIET-Course-Materials).
+If you want to access the resources of NIET, [click here to visit the repository](https://github.com/DevGoyalG/NIET-Study-Material).
